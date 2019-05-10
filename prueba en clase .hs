@@ -6,3 +6,7 @@ coeficienteIntelectual :: Coeficiente,
 especie :: Especie,
 capacidades :: [Capacidad]
 } deriving(Show)
+
+
+
+-- hola
